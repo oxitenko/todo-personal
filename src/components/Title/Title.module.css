@@ -1,0 +1,9 @@
+.title {
+  font-weight: 400;
+  font-size: 92px;
+  line-height: 100px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+  margin: 0 0 20px 20px;
+  align-self: flex-start;
+}

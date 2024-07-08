@@ -1,0 +1,19 @@
+.counter {
+  display: flex;
+  width: 666px;
+  max-width: 100%;
+  flex-direction: column;
+  border: 2px solid #ad02fe;
+  background-color: #25273c;
+  border-radius: 16px;
+  row-gap: 10px;
+  padding: 10px;
+}
+
+.text {
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+  margin: 0;
+}
